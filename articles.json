@@ -5,16 +5,18 @@
     "category": "Church History",
     "author": "Rev. Mark",
     "dateAdded": "2026-10-14",
-    "content": "A soul grounded in orthodox truth remains steadfast, though imperial wrath rage against it.\n\nWhen Pope Martin I was consecrated in 649, he stood against imperial decrees enforcing Monothelitism—the doctrine that suppressed Christ's human will.",
-    "isPremium": false
+    "content": "A soul grounded in orthodox truth remains steadfast, though imperial wrath rage against it.\n\nWhen Pope Martin I was consecrated in 649, he stood against imperial decrees enforcing Monothelitism...",
+    "isPremium": false,
+    "readTimeMinutes": 3
   },
   {
     "id": "2",
-    "title": "Advanced Theology & Early Monasticism",
+    "title": "Advanced Monastic Theology & Orthodoxy",
     "category": "Deep Theology",
     "author": "Dr. Thomas",
     "dateAdded": "2026-10-14",
     "content": "U2FsdGVkX19v...",
-    "isPremium": true
+    "isPremium": true,
+    "readTimeMinutes": 6
   }
 ]
