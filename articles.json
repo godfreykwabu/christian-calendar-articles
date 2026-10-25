@@ -52,15 +52,5 @@
     ],
     "isPremium": false,
     "readTimeMinutes": 6
-  },
-  {
-    "id": "2",
-    "title": "Advanced Monastic Theology & Orthodoxy",
-    "category": "Deep Theology",
-    "author": "Dr. Thomas",
-    "dateAdded": "2026-10-14",
-    "content": "U2FsdGVkX19v...",
-    "isPremium": true,
-    "readTimeMinutes": 6
   }
 ]
