@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Christian History Calendar</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #1a252f;
+            border-bottom: 2px solid #e1e8ed;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #2c3e50;
+            margin-top: 25px;
+        }
+        p, li {
+            font-size: 15px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .footer {
+            margin-top: 40px;
+            padding-top: 15px;
+            border-top: 1px solid #e1e8ed;
+            font-size: 13px;
+            color: #7f8c8d;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy</h1>
+    <p><strong>Effective Date:</strong> October 29, 2026</p>
+
+    <p>This Privacy Policy explains how <strong>Christian History Calendar</strong> ("we", "our", or "us") handles information when you use our mobile application. We are committed to protecting your privacy and ensuring you have a positive experience while exploring Christian history, daily reflections, and scripture.</p>
+
+    <h2>1. Information We Do Not Collect</h2>
+    <p>We do not collect, store, or transmit any personally identifiable information (PII) such as your name, email address, phone number, location, or contact list. The app operates locally on your device without requiring user account creation or registration.</p>
+
+    <h2>2. Local Data Storage & Alarm Scheduling</h2>
+    <p>Our app relies on local device features to deliver core functionality:</p>
+    <ul>
+        <li><strong>Local Preferences:</strong> App preferences (such as premium status) are stored locally on your device using Android's secure preferences storage.</li>
+        <li><strong>Daily Notifications:</strong> To deliver 8:00 AM daily event reminders, the app schedules local device alarms using Android's <code>AlarmManager</code> and <code>RECEIVE_BOOT_COMPLETED</code> receiver. No external server tracking or remote push tokens are used for notifications.</li>
+    </ul>
+
+    <h2>3. Third-Party Services & Financial Transactions</h2>
+    <p>To provide subscriptions, accept voluntary support, and display non-intrusive advertisements, we integrate trusted Google third-party services:</p>
+
+    <h3>A. Google Play Billing</h3>
+    <p>Purchases for subscriptions and voluntary support tips are processed strictly through the official <strong>Google Play Billing API (v8.0.0+)</strong>. All payment processing, credit card details, and billing transactions are managed securely by Google Play. We do not have access to or store your financial information or payment details.</p>
+
+    <h3>B. Google AdMob</h3>
+    <p>We use <strong>Google AdMob</strong> to display advertisements within the application. AdMob may collect and use pseudonymous device identifiers (such as the Google Advertising ID) and crash diagnostic data to serve ads and analyze ad performance. You can manage or reset your device's Advertising ID via your Android device settings under <em>Settings > Google > Ads</em>.</p>
+
+    <p>For more details on how Google processes ad and billing data, please review:</p>
+    <ul>
+        <li><a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Google Privacy Policy</a></li>
+        <li><a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener noreferrer">Google Advertising Policies</a></li>
+    </ul>
+
+    <h2>4. Children's Privacy</h2>
+    <p>Our application is suitable for audiences of all ages and does not knowingly collect personal data from children under the age of 13. If you believe any personal data has been inadvertently provided, please contact us immediately, and we will take steps to remove such information.</p>
+
+    <h2>5. Changes to This Privacy Policy</h2>
+    <p>We may update our Privacy Policy from time to time to reflect app improvements or legal updates. Any updates will be posted directly to this web page with a revised "Effective Date".</p>
+
+    <h2>6. Contact Us</h2>
+    <p>If you have any questions, feedback, or concerns regarding this Privacy Policy or our app, please contact us via email at:</p>
+    <p><strong>Email:</strong> mkerekwabu@gmail.com</p>
+
+    <div class="footer">
+        <p>&copy; 2026 Christian History Calendar. All rights reserved.</p>
+    </div>
+
+</body>
+</html>
